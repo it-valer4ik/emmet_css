@@ -1,0 +1,14 @@
+body {
+    background-color: #d9dbbb;
+}
+
+h1,
+h2 {
+    text-align: center;
+    background-color: rgb(160, 162, 131);
+}
+
+p {
+    text-indent: 2em;
+    text-align: center;
+}
